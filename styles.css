@@ -60,3 +60,8 @@ body {
 .open {
     left: 0; /* Show menu */
 }
+
+.a1{
+    text-decoration: black;
+    color: black;
+}
