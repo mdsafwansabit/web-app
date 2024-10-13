@@ -110,3 +110,50 @@ body {
   .div{
     margin: 20px;
   }
+
+
+  footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #0A0826;
+}
+footer h3{
+    color: #FFF;
+margin-bottom: 5px;
+font-family: 'Poppins';
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+footer h5,p{
+    margin-bottom: 5px;
+    color: var(--Text-Gray-300, #D9DBE1);
+
+font-family: 'Manrope';
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 171.429% */
+}
+footer p{
+    margin-bottom: 17px;
+}
+
+ footer i{
+    margin-right: 16px;
+    color: #FFF;
+    font-size: 25px;
+ }
+
+
+
+.non-design-p {
+  color: black;
+  font-size: 18px;
+}
